@@ -1,6 +1,6 @@
 package com.codersee.annotation
 
-import io.micronaut.core.exceptions.ExceptionHandler
+import io.micronaut.http.server.exceptions.ExceptionHandler
 import io.micronaut.http.HttpRequest
 import io.micronaut.http.HttpResponse
 import io.micronaut.http.annotation.Produces
