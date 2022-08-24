@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: example
+  mongodb:
+    uri: 'mongodb://localhost:27017/example'
+netty:
+  default:
+    allocator:
+      max-order: 3
